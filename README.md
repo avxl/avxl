@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on:
 `new pc build`
 - 🌱 I’m currently learning:
-`scala``sql`
+`scala`
+`sql`
 - 💬 Ask me about:
 `tokusatsu`
 `dslr photography`

@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-`comptia a+`
 `new pc build`
 - 🌱 I’m currently learning:
-`scala`
+`scala``sql`
 - 💬 Ask me about:
 `tokusatsu`
 `dslr photography`

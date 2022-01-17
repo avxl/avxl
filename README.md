@@ -26,5 +26,3 @@
 > `python`
 > 
 > `..but i'm getting back into programming so i'm basically starting fresh! thanks for dropping by!`
-
-![kamen rider build](https://c.tenor.com/FQqH8LtrPTMAAAAd/kamen-rider-kamen-rider-build.gif)
